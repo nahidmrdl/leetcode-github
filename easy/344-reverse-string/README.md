@@ -22,5 +22,5 @@ We can reverse the string by **swapping characters from both ends toward the cen
 ---
 
 ### Time and Space Complexity
-- **Time:** O(n) — each character is visited once.  
-- **Space:** O(1) — only a few variables are used regardless of input size.
+- **Time:** O(n) - each character is visited once.  
+- **Space:** O(1) - only a few variables are used regardless of input size.
